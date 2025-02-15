@@ -1,1 +1,1 @@
-# fintech
+A basic web-based note-taking application that allows users to Create, Read, Update, and Delete notes. Built using Servlets for backend logic, JSP for frontend rendering, and Hibernate for database operations.
